@@ -5,4 +5,4 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=fff)
 ![Solidity](https://img.shields.io/badge/-Solidity-000000?style=for-the-badge&logo=Solidity&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript&logoColor=fff)
-![Bash](https://img.shields.io/badgei/bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=fff)
+![Bash](https://img.shields.io/badge/bash-%23000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=fff)
